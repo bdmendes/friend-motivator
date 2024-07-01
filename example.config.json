@@ -1,0 +1,16 @@
+{
+    "language": "english",
+    "minutes": 1,
+    "friends": [
+        {
+            "name": "Alice",
+            "id": "discord-id-int-enable-dev-mode"
+        }
+    ],
+    "keys": {
+        "gemini": "your-gemini-key",
+        "discord": "your-discord-bot-key"
+    },
+    "prompt": "My friend is no nice but is sad. Please write a short message to cheer them up.",
+    "default_message": ", you are a great person! I hope you have a great day!"
+}
